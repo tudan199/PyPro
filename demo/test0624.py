@@ -1,4 +1,3 @@
-a=[1,32,23,"1"]
-print(a)
-del a[3]
-print(a)
+a=["3","1","fas"]
+b=a.count()
+print(b)
